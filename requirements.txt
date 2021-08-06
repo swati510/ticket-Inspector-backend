@@ -1,3 +1,4 @@
 pathlib 
 pandas 
 requests
+PuLP==2.4
