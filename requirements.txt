@@ -1,6 +1,3 @@
 pathlib 
 pandas 
 requests
-copy
-pulp 
-math
