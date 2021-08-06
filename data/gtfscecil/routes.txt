@@ -1,0 +1,6 @@
+route_id,route_short_name,route_long_name,route_desc,route_url,route_color,route_text_color,route_type
+24047,Route 2,Perryville Connection,,http://www.ccgov.org/home/showdocument?id=34550,005d55,F3D311,3
+24048,Route 3,Mid -County Connection,,http://www.ccgov.org/home/showdocument?id=34548,008eb2,FFFFFF,3
+24049,Route 4,Elkton-Newark Connection,,http://www.ccgov.org/home/showdocument?id=34544,60497b,F3D311,3
+34390,Route 5,Commuter Connection,,http://www.ccgov.org/home/showdocument?id=34504,56B9BE,FFFFFF,3
+24046,Route 1,Glasgow Connection,,http://www.ccgov.org/home/showdocument?id=34546,91223f,F3D311,3
